@@ -47,5 +47,3 @@ This project demonstrates authentication, API integration, Jetpack Compose UI, a
 
 ---
 
-## 📂 Project Structure
-
