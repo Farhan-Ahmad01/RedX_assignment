@@ -5,6 +5,12 @@ This project demonstrates authentication, API integration, Jetpack Compose UI, a
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd7f68a8-5f28-468f-8dbb-31f42a4b0ca4" width="15%" />&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/30ca4e36-9b2a-49a6-9602-9298764aeb31" width="15%" />&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/9b44f4da-d350-4c1f-bae2-ebfc7987e4dc" width="15%" />&nbsp;&nbsp;
+</p>
+
 ## 🚀 Features
 
 ### 🔐 Authentication
